@@ -1,0 +1,100 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Henny+Penny&display=swap');
+
+.b1{
+
+    width: 1350px;
+    background-color:#E7E2DA;
+    margin: auto;
+	
+}	
+.b11{
+background: url("paper-head.PNG");
+background-repeat: no-repeat;
+background-size: cover; 
+    height: 250px;
+}	
+
+.b2{
+background: url("paper-sub-head.PNG");
+
+height: 120px;	
+text-align: center;
+background-size: cover;
+background-repeat: no-repeat;
+
+}	
+
+.b21{
+border: 2px solid black;
+
+  overflow: hidden;
+	
+}	
+
+	
+	
+
+h1{
+font-family: 'Berkshire Swash', cursive;
+font-size: 30px;
+text-align: center;	
+}	
+
+.text{
+font-family: 'Henny Penny', cursive ;
+margin: 10px;	
+	
+}	
+
+
+.harry{
+float: right;
+margin-left: 20px;
+margin-bottom: 20px;
+	
+}
+
+h2{
+font-family: 'Berkshire Swash', cursive;
+font-size: 30px;
+text-align: center;	
+
+}
+body{
+font-family: 'Henny Penny', cursive ;
+background-color: #E7E2DA;
+}	
+
+
+.block1{
+width: 30%;	
+float: left;
+margin: 1%;
+text-align: center;	
+border: 1px solid black;
+}	
+
+
+
+.block2{
+width: 30%;	
+
+
+text-align: center;	
+border: 1px solid black;
+float: left;
+}	
+
+.block3{
+width: 30%;	
+
+margin: 1%;
+float: left;
+border: 1px solid black;	
+}	
+
+.nnn {
+    padding: 30px;
+	margin-left: 5%;
+}

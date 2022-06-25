@@ -1,0 +1,75 @@
+/* background-color:#E7E2DA; */
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+.daily-prophet{ /* главный div */
+    width: 1350px;
+    background-color:#E7E2DA;
+    margin: auto;
+    padding: 50px;
+    
+}
+.paper-header{ /* верхний рисунок */
+    height: 250px;
+    background:url("img/paper-head.PNG") ;
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+.paper-sub-header{  /* 2-й рисунок */
+    height: 120px;
+    background: url("img/paper-sub-head.PNG") center/cover no-repeat;
+}
+.paper-content{ /* второй блок div */
+    margin-top: 30px;
+    border:3px solid black;
+    overflow: hidden;
+}
+
+
+.first-article-title {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Berkshire Swash', cursive;
+    text-shadow: 0 10px 10px black;
+	 padding: 30px;
+}
+
+ /* для Д/З */ 
+.first-article-img {
+   opacity: 0.7; 
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+
+.first-article-text {
+    font-family: 'Henny Penny', cursive;
+    line-height: 32px;
+}
+.test{
+    float: left;
+    width: 30%;
+}
+
+.second-article {
+    padding: 30px;
+}
+.second-article-title {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Berkshire Swash', cursive;
+    text-shadow: 0 10px 10px black;
+}
+.second-article-text {
+    font-family: 'Henny Penny', cursive;
+    line-height: 2em;
+}
+.column {
+    width: 30%;
+    float:left;
+    margin: 1%;
+    text-align: center;
+}
